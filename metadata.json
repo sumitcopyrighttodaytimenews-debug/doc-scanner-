@@ -1,0 +1,8 @@
+{
+  "name": "DocScan Pro",
+  "description": "A mobile document scanning application that allows users to scan paper documents, organize them into PDFs, and extract text.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,31 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Premium Dark Theme Colors
+val md_theme_dark_primary = Color(0xFF82C8FF)
+val md_theme_dark_onPrimary = Color(0xFF003355)
+val md_theme_dark_primaryContainer = Color(0xFF004A79)
+val md_theme_dark_onPrimaryContainer = Color(0xFFCDE5FF)
+val md_theme_dark_secondary = Color(0xFFB5C9D7)
+val md_theme_dark_onSecondary = Color(0xFF20333E)
+val md_theme_dark_secondaryContainer = Color(0xFF364955)
+val md_theme_dark_onSecondaryContainer = Color(0xFFD1E5F4)
+val md_theme_dark_tertiary = Color(0xFFC7EFD0)
+val md_theme_dark_onTertiary = Color(0xFF00391A)
+val md_theme_dark_tertiaryContainer = Color(0xFF0C512A)
+val md_theme_dark_onTertiaryContainer = Color(0xFFE4FBE9)
+val md_theme_dark_error = Color(0xFFFFB4AB)
+val md_theme_dark_errorContainer = Color(0xFF93000A)
+val md_theme_dark_onError = Color(0xFF690005)
+val md_theme_dark_onErrorContainer = Color(0xFFFFDAD6)
+val md_theme_dark_background = Color(0xFF0F1A24)
+val md_theme_dark_onBackground = Color(0xFFDFE2E6)
+val md_theme_dark_surface = Color(0xFF0F1A24)
+val md_theme_dark_onSurface = Color(0xFFDFE2E6)
+val md_theme_dark_surfaceVariant = Color(0xFF192530)
+val md_theme_dark_onSurfaceVariant = Color(0xFFC1C7CE)
+val md_theme_dark_outline = Color(0xFF8B9299)
+val md_theme_dark_inverseOnSurface = Color(0xFF0F1A24)
+val md_theme_dark_inverseSurface = Color(0xFFDFE2E6)
+val md_theme_dark_inversePrimary = Color(0xFF00639C)
